@@ -40,7 +40,7 @@ app.post('/login', (req, res) => {
     res.redirect(`/${result}`)
   } else {
     const error = 'Email/Password fail, please try again!'
-    res.render('index', { error })
+    res.render('index', { error, email, password })
   }
 })
 
