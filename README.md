@@ -14,16 +14,6 @@ User account can be keep log in 3 mins if page is closed.
 
 User can log out account.
 
-## Process
-Login
-![login](https://photos.google.com/photo/AF1QipMRfEmBv42MA0uINA1UFlu-qvEHOp57gbF6Lzae)
-
-Login fail
-![fail](https://photos.google.com/photo/AF1QipP-iW6_2XAeBco4TdJUPk7yXI-KXv52rNm4yWln)
-
-Welcome page
-![welcom](https://photos.google.com/photo/AF1QipPVMlj_wEzir3V7Cir_QQOrG9VH3cAiMIGu7A4L)
-
 ## Installation
 1. Open terminal and download project
 ```
