@@ -1,1 +1,6 @@
-<h2>Welcome back, {{this.result}}</h2>
+<div class="row mt-5 justify-content-center align-items-center flex-column">
+  <h1>Welcome back, {{this.result}}</h1>
+  <form method="POST" action="/logout">
+    <button type="submit" class="btn btn-danger mt-2" id="logout-btn">Log out</button>
+  </form>
+</div>
